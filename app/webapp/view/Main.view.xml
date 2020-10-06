@@ -72,7 +72,7 @@
 						<content>
 							<Toolbar>
 								<content>
-									<Label text="Created!@#:"
+									<Label text="Created:"
 										labelFor="DRS01"/>
 									<DateRangeSelection id="DRS01"
 										width="20rem"
